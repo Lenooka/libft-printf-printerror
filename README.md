@@ -15,7 +15,7 @@ Standard: C99 (or project-required standard)
 Compiler: cc / gcc
 Build system: Makefile
 
-#Learning Goals
+# Learning Goals
 Deep understanding of how standard C functions work internally
 Mastery of pointers and memory management
 Writing modular and reusable code
